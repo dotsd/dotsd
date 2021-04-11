@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumya D
-- 👀 I’m interested in Data Science, AI-ML, DL, NLP and CV projects collaboration 
+- 👀 I’m interested in Satistics, Data Science, AI-ML, DL, NLP and CV.
 - 🌱 I’m currently learning Etrepreneurship 
 - 💞️ I’m looking to collaborate on Freelancing & Mentoerhsip
 - 📫 How to reach me sd7@outlook.in
