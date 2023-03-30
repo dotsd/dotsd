@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumya D
 - 👀 Interested in Statistics, Data Science/Data consulting, AI-ML, DL, NLP and CV.
-- 🌱 Currently curious about learning adversarial learning
+- 🌱 Currently experimenting with Dalle2
 - 💞️ Up for a new Ideas and collaboration.
 - 📫 How to reach me sd7@outlook.in
 
