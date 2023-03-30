@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soumya D
-- 👀 I’m interested in Statistics, Data Science/Data consulting, AI-ML, DL, NLP and CV.
-- 🌱 I’m currently learning Leadership & Video analytics/Processing.
-- 💞️ I’m up for a new collaboration & Mentorship.
+- 👀 Interested in Statistics, Data Science/Data consulting, AI-ML, DL, NLP and CV.
+- 🌱 Currently curious about learning adversarial learning
+- 💞️ Up for a new Ideas and collaboration.
 - 📫 How to reach me sd7@outlook.in
 
 <!---
