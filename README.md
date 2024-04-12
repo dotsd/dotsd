@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumya D
-- 👀 Curious about GenAI, LLM, RAGs, Statistics, Data Science, AI/ML, DL, NLP and CV.
+- 👀 Curious about GenAI, LLM, RAGs, Data Science, AI/ML, NLP and CV.
 - 🌱 Experimenting with trends [BestLLMs](https://huggingface.co/models) 
 - 💞️ Up for a new Ideas and collaboration.
 - 📫 How to reach me sd7@outlook.in
