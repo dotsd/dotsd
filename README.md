@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumya D
-- 👀 Interested in Statistics, Data Science/Data consulting, AI-ML, DL, NLP and CV.
-- 🌱 Currently experimenting with Dalle2
+- 👀 Curious about GenAI, LLM, RAGs, Statistics, Data Science, AI/ML, DL, NLP and CV.
+- 🌱 Experimenting with (https://huggingface.co/models)
 - 💞️ Up for a new Ideas and collaboration.
 - 📫 How to reach me sd7@outlook.in
 
