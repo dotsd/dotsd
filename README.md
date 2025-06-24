@@ -26,8 +26,6 @@ MCP refers to designing end-to-end pipelines where different components (models,
 ## 📫 Get in Touch
 
 - Email: [sd7@outlook.in](mailto:sd7@outlook.in)
-<!-- - Connect on [LinkedIn](https://www.linkedin.com/in/sd7/) -->
-
 ---
 
 <!---
