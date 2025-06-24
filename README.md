@@ -15,7 +15,7 @@ Currently experimenting with the latest trends in AI, including the [best perfor
 I'm always open to new ideas, collaborations, and meaningful conversations about AI and technology.
 
 - 📧 **Email**: [sd7@outlook.in](mailto:sd7@outlook.in)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/soumya-d) *(placeholder)*
+- 💼 **LinkedIn**: [Connect with Soumya](https://linkedin.com/in/soumya-d)
 - 🌐 **Personal Website**: [soumyad.dev](https://soumyad.dev) *(placeholder)*
 
 ## 🚀 Featured Projects
