@@ -16,7 +16,7 @@ I'm always open to new ideas, collaborations, and meaningful conversations about
 
 - 📧 **Email**: [sd7@outlook.in](mailto:sd7@outlook.in)
 - 💼 **LinkedIn**: [Connect with Soumya](https://linkedin.com/in/sd7)
-- 🌐 **Personal Website**: [WIP]) *(placeholder)*
+- 🌐 **Personal Website**: [WIP]) *(WIP - placeholder)*
 
 ## 🚀 Featured Projects
 *Coming soon - This section will showcase key projects and technical achievements.*
