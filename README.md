@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Soumya D
 
 ## About Me
-I'm passionate about cutting-edge AI technologies and constantly exploring the latest developments in the field. My interests and expertise span across:
+
+I'm passionate about AI technologies and constantly exploring the latest developments in the field. My interests and expertise span across:
 
 - **Generative AI & Large Language Models (LLMs)** - Building intelligent systems that understand and generate human-like text
 - **Retrieval-Augmented Generation (RAGs)** - Combining knowledge retrieval with generative AI for enhanced accuracy
@@ -15,11 +16,6 @@ Currently experimenting with the latest trends in AI, including the [best perfor
 I'm always open to new ideas, collaborations, and meaningful conversations about AI and technology.
 
 - 📧 **Email**: [sd7@outlook.in](mailto:sd7@outlook.in)
-- 💼 **LinkedIn**: [Connect with Soumya](https://linkedin.com/in/sd7)
-- 🌐 **Personal Website**: [WIP]) *(WIP - placeholder)*
-
-## 🚀 Featured Projects
-*Coming soon - This section will showcase key projects and technical achievements.*
 
 ---
 
